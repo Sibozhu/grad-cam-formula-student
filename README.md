@@ -17,14 +17,9 @@ See file `dependencies.txt`. To install: `pip install -r dependencies.txt`.
 * pillow 5.3.0
 
 
-## Usage
+# Usage
 
-# First:
-```
-cd /path/to/this/repo/
-```
-
-# Visualization
+## Visualization
 ### Single Image Visualization
 e.g: If you wish to do visualization of "HiveAIRound1_vid_18_frame_1068.jpg" on our YoloV3 model with only 1 class and GPU mode off, type:
 ```
