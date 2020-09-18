@@ -1,7 +1,7 @@
 # GRAD-CAM on YoloV3 
 
 <p align="center">
-<img src="HiveAIRound2_vid_37_frame_361 jpg_module_list 93_compare](https://user-images.githubusercontent.com/22118253/93553466-0c228200-f941-11ea-9c99-36627ab0d2c6.png" width="800">
+<img src="https://user-images.githubusercontent.com/22118253/93553466-0c228200-f941-11ea-9c99-36627ab0d2c6.png" width="800">
 </p>
 
 ## 1. check dependencies.
