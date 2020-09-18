@@ -4,7 +4,7 @@
 <img src="https://user-images.githubusercontent.com/22118253/93553466-0c228200-f941-11ea-9c99-36627ab0d2c6.png" width="800">
 </p>
 
-## 1. check dependencies.
+# Check dependencies.
 
 See file `dependencies.txt`. To install: `pip install -r dependencies.txt`.
 
